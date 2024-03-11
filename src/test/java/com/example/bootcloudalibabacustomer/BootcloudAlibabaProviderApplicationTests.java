@@ -1,4 +1,4 @@
-package com.example.bootcloudalibabaprovider;
+package com.example.bootcloudalibabacustomer;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
